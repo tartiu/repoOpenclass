@@ -1,0 +1,11 @@
+Voici mes projets et objectifs:
+
+	Projets Réalisés:
+		- Création d'application Android basique pour compter les points lors d'une partie de basket
+		- Création d'application android qui compte le nombre de médicament pris quotidiennement (avec date)
+		- Controle de led grâce à une prise connecté via des script python et bash (ou .bat)
+
+	Objectifs:
+		- Etre capable à l'aise pour la communication en réseau grâce à des scripts python
+		- Etre capable de créer de petite application Android efficacement
+		- Comprendre lorsqu'un développeur Web me parle (eventuellement être capable de créer de petite IHM)
