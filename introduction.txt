@@ -1,0 +1,10 @@
+Bonjour à tous !
+
+Si vous êtes ici c'est que vous avez été suffisamment curieux. Et ca tombe bien, ce dossier est uniquement pour les curieux !!
+En réalité il ne sert pas à grand chose. M'enfin ... donnons lui quand même une utilité ... 
+
+Alors, dans ce fichier, vous aurez une courte introduction sur ma vie et pourquoi je crée ce dossier GitHub. Je suis actuellement en école d'ingenieur généraliste orientée mécanique (vous l'aurez compris, pas du tout orientée programmation donc ...). Cependant, je pense qu'aujourd'hui les nouvelles technologies et conceptions nécessite toutes l'utilisation de programmation ou de langage informatique. Je viens donc naturellement apprendre comment ces dernières fonctionnent !
+
+Pardonnez par avance pour les fautes de conception que vous trouverez dans mes programmes, mais vous l'aurez compris je suis auto didacte et je n'ai aucune notion de structure de code.
+
+Merci à tous et profitez bien de votre passage sur ce dossier !

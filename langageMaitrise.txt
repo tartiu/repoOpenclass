@@ -1,0 +1,9 @@
+Bonjour ou Re-bonjour à tous !
+
+Dans ce fichier vous aurez une brève liste des langages informatique sur lesquelles je m'exerce:
+	- Python
+	- Java
+	- Programmation Android (XML + Java)
+	- JavaScript
+	- Html
+	- CSS
